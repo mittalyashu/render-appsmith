@@ -4,3 +4,5 @@ services:
     env: docker
     plan: standard
     autoDeploy: false
+    # If not specified, the region defaults to `oregon`.
+    region: frankfurt
