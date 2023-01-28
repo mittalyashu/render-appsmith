@@ -2,5 +2,5 @@ services:
   - type: web
     name: Appsmith
     env: docker
-    plan: free
+    plan: standard
     autoDeploy: false
